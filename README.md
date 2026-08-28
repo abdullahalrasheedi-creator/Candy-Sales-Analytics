@@ -52,3 +52,18 @@ This project was created for portfolio and learning purposes.
 ### Product & Profitability
 
 ![Product & Profitability](Product-Profitability.png)
+
+## Key Business Insights
+
+- Chocolate achieved the highest gross margin at 67%.
+- Sugar followed closely with a gross margin of 66%.
+- Other products recorded a significantly lower gross margin of 44%.
+- The dashboard enables management to compare sales, profitability, regional performance, shipping methods, and factory performance.
+- Interactive filters allow users to drill down from overall business performance to division and product-level results.
+
+## Business Recommendations
+
+- Investigate the cost structure of Other products to understand the lower gross margin.
+- Prioritize high-margin product categories while monitoring their sales volume.
+- Use regional and factory-level performance to identify opportunities for supply chain optimization.
+- Monitor sales and profitability together rather than relying on sales volume alone.
