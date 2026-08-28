@@ -47,7 +47,7 @@ This project was created for portfolio and learning purposes.
 
 ### Supply Chain Analysis
 
-![Supply Chain Analysis](supply-chain-analysis.png)
+![Supply Chain Analysis](Supply-Chain-Analysis.png)
 
 ### Product & Profitability
 
