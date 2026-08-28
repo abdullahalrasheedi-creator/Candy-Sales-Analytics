@@ -1,5 +1,5 @@
 # Candy-Sales-Analytics
-Power BI sales, supply chain, and profitability analysis dashboard built using Excel, Power Query, DAX, and data modelingز
+Power BI sales, supply chain, and profitability analysis dashboard built using Excel, Power Query, DAX, and data modeling
 # Candy Sales Analytics Dashboard
 
 ## Project Overview
@@ -38,3 +38,17 @@ The Power BI model connects sales data with product, factory, and target informa
 ## Disclaimer
 
 This project was created for portfolio and learning purposes.
+
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](executive-overview.png)
+
+### Supply Chain Analysis
+
+![Supply Chain Analysis](supply-chain-analysis.png)
+
+### Product & Profitability
+
+![Product & Profitability](product-profitability.png)
