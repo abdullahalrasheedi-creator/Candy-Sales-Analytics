@@ -51,4 +51,4 @@ This project was created for portfolio and learning purposes.
 
 ### Product & Profitability
 
-![Product & Profitability](product-profitability.png)
+![Product & Profitability](Product-Profitability.png)
